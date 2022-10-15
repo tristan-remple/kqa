@@ -1,0 +1,53 @@
+.sb-color {
+    background-image: linear-gradient(#13999C, #34BCB6);
+    border-right-color: #125354;
+    color: #125354;
+}
+
+.sb-btncolor {
+    border-color: #2A946F;
+    background-color: #57E1D2;
+    color: #125354;
+}
+
+.sb-btncolor:hover {
+    background-color: #125354;
+    color: #57E1D2;
+    outline-color: #2A946F;
+}
+
+.sb-btncolor:focus {
+    background-color: #125354;
+    color: #57E1D2;
+    outline-color: #2A946F;
+}
+
+.curr-page {
+    background-color: #34BC97;
+}
+
+.wn-bg {
+    background-color: rgba(6, 57, 69, 0.6);
+}
+
+.warn-color {
+    background-color: #132236;
+    border-color: #A77C48;
+    color: #AE9779;
+}
+
+.wn-title {
+    color: #BA7D2D;
+}
+
+.wn-btncolor {
+    background-color: #224358;
+    color: #6FAE99;
+    border-color: #267985;
+}
+
+.wn-btncolor:hover {
+    color: #224358;
+    background-color: #6FAE99;
+    outline-color: #267985;
+}

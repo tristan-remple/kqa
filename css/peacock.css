@@ -1,0 +1,110 @@
+body {
+    background-image: url("../img/BG-teal.jpg");
+    background-color: #22C8B4;
+    background-repeat: repeat;
+    color: #4B265C;
+    scrollbar-color: #6B2061, #F5E1AB;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #6B2061;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #F5E1AB;
+}
+
+a {
+    color: #6B2061;
+}
+
+.gradient {
+    position: fixed;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(#22C8B4, rgba(34, 200, 180, 0))
+}
+
+.imp-txt {
+    color: #6B2061;
+}
+
+.box-color {
+    color: #4B265C;
+    background-color: #F5E1AB;
+    border-color: #604898;
+}
+
+.link-color {
+    color: #13999C;
+}
+
+.link-color:hover {
+    color: #BA5284;
+}
+
+.link-color:focus {
+    color: #BA5284;
+}
+
+.btncolor {
+    background-color: #EE8DBA;
+    border-color: #BA5284;
+    color: #6B2061;
+}
+
+.btncolor:hover {
+    background-color: #6B2061;
+    color: #F5E1AB;
+    outline-color: #BA5284;
+}
+
+.btncolor:focus {
+    background-color: #6B2061;
+    color: #F5E1AB;
+    outline-color: #BA5284;
+}
+
+.ia-border {
+    border-color: #BA5284;
+}
+
+.nia-border {
+    border-color: #604898;
+}
+
+.th-color {
+    background-color: rgba(238, 141, 186, 0.6);
+    color: #4B265C;
+}
+
+.th-color:hover {
+    outline-color: #BA5284;
+}
+
+.th-color:focus {
+    outline-color: #BA5284;
+}
+
+.lb-color {
+    background-color: rgba(75, 38, 92, 0.7);
+}
+
+.navbox-color {
+    background-color: #13999C;
+    border-color: #125354;
+}
+
+.hb {
+    background-color: #F5E1AB;
+}
+
+.crnt {
+    background-color: #F5E1AB;
+    cursor: default;
+}
+
+.line-color {
+    background-color: #604898;
+}
